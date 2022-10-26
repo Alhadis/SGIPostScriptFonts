@@ -1,5 +1,9 @@
+# Font files
+*.afm text eol=CR
+*.inf text eol=CR
 *.pfb binary
 *.pfm binary
+*.ttf binary
 
-# Use PostScript highlighting for metadata files; it's close enough
+# Unrecognised filetypes
 *.inf linguist-language=PostScript
