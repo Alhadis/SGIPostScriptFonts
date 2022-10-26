@@ -1,0 +1,5 @@
+*.pfb binary
+*.pfm binary
+
+# Use PostScript highlighting for metadata files; it's close enough
+*.inf linguist-language=PostScript
