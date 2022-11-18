@@ -1,0 +1,5 @@
+[diff "CR"]
+	textconv = mac2unix -- <
+[filter "CR"]
+	smudge = mac2unix --
+	clean  = unix2mac --

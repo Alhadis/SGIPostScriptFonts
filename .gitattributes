@@ -1,6 +1,8 @@
+[attr]cr diff=CR filter=CR
+
 # Font files
-*.afm text eol=CR
-*.inf text eol=CR
+*.afm text cr
+*.inf text cr
 *.pfb binary
 *.pfm binary
 *.ttf binary
