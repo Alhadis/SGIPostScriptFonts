@@ -19,5 +19,4 @@ indent_size = 4
 
 # Font directories
 [{ALT,Alt*,Text,XtraBold}/*.{afm,inf,pfb,pfm,ttf}]
-end_of_line = cr
 charset = latin-1
